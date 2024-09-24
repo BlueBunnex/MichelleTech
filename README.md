@@ -1,5 +1,9 @@
 # MichelleTech
 
+`gradle build`
+
+`gradle runClient`
+
 ### Resources
 https://docs.neoforged.net/
 
