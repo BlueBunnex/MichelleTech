@@ -41,11 +41,11 @@ displayName="MichelleTech" #mandatory
 #credits="" #optional
 
 # A text field displayed in the mod UI
-authors="By Blue" #optional
+authors="Blue" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
-description='''Mic
-helle Tech'''
+description='''Michelle Tech
+Sponsored by Big Pharma'''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
 #[[mixins]]
