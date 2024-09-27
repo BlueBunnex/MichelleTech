@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "michelletech:block/example_block"
+    }
+  }
+}
