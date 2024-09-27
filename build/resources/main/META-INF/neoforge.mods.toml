@@ -44,8 +44,8 @@ displayName="MichelleTech" #mandatory
 authors="Blue" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
-description='''Michelle Tech
-Sponsored by Big Pharma'''
+description='''MichelleTech
+yeah'''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
 #[[mixins]]

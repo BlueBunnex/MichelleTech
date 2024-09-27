@@ -3,6 +3,9 @@
 
 `gradle runClient`
 
+I will clean up the codebase for this project *after* I learn the basics of modding.
+No need to hassle shaping cookies that don't have sugar in them.
+
 ### Resources
 https://docs.neoforged.net/
 
